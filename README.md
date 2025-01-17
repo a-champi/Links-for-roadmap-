@@ -15,7 +15,7 @@
 
 ## JavaScript 
 - [JavaScript Roadmap](https://roadmap.sh/javascript)
-- []()
+- [The Modern JavaScript Tutorial](https://javascript.info/)
 
 ## TypeScript 
 - [TypeScript](https://roadmap.sh/typescript)
