@@ -16,6 +16,7 @@
 ## JavaScript 
 - [JavaScript Roadmap](https://roadmap.sh/javascript)
 - [The Modern JavaScript Tutorial](https://javascript.info/)
+- [Essential JavaScript Websites](https://www.freecodecamp.org/news/search/?query=javascript)
 
 ## TypeScript 
 - [TypeScript](https://roadmap.sh/typescript)
