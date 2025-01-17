@@ -1,4 +1,4 @@
-# Globaly link for Webdeveloper
+# Globaly Link for Web Developers 
 ## Frontend Developer
 - [Frontend Developer](https://roadmap.sh/frontend)
 - [Docs-Motivation](https://motion.dev/docs)  
@@ -11,7 +11,7 @@
 ## Backend Developer
 - [Backend Developer](https://roadmap.sh/backend)
 - [Express-Node.js](https://expressjs.com/)
-- []()
+
 
 ## JavaScript 
 - [JavaScript Roadmap](https://roadmap.sh/javascript)
@@ -26,7 +26,7 @@
 ## Node.js
 - [Node.js Developer](https://roadmap.sh/nodejs)
 - [Node.js How to read enviroment Variables ...](https://nodejs.org/en/learn/command-line/how-to-read-environment-variables-from-nodejs)
-- []()
+- [Node.js - Rezepte und Lösungen (Buch)](https://www.rheinwerk-verlag.de/nodejs-rezepte-und-loesungen/?srsltid=AfmBOorgDbGFWHOkJQ3hTmWzieBhBxcSAsyguxmH_8O1o9NilmhJKVts)
 
 ## Others
 - [Excalidraw - (Collaborative Whiteoarding)](https://excalidraw.com/#json=6UbsNkWPghtHmyEgxR0r3,RTkHIGJ2WoXDsM8vDbbEgw)
