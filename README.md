@@ -2,7 +2,8 @@
 ## Frontend Developer
 - [Frontend Developer](https://roadmap.sh/frontend)
 - [Docs-Motivation](https://motion.dev/docs)
-- []()
+- [React](https://react.dev/)
+- [Next.js](https://nextjs.org/)
 
 ## Backend Developer
 - [Backend Developer](https://roadmap.sh/backend)
@@ -26,3 +27,7 @@
 - [Excalidraw - (Collaborative Whiteoarding)](https://excalidraw.com/#json=6UbsNkWPghtHmyEgxR0r3,RTkHIGJ2WoXDsM8vDbbEgw)
 - [Unsplash- (fotos)](https://unsplash.com/de)
 - [pixabay - (fotos)](https://pixabay.com/)
+
+## All APIS
+- [API Docs]((https://all-apis.com/)
+- [API Data Explorer](https://preview.all-apis.com/)
