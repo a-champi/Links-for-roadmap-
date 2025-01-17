@@ -33,6 +33,11 @@
 - [Unsplash- (fotos)](https://unsplash.com/de)
 - [pixabay - (fotos)](https://pixabay.com/)
 - [Carbon (Create and share beautiful images of your source code.)](https://carbon.now.sh/)
+- # tools-links
+1. [Faker](https://www.npmjs.com/package/@faker-js/faker)
+   **Description** Faker tries to generate realistic data and not obvious fake data. The generated names, addresses, emails, phone numbers, and/or other data might be coincidentally valid information. Please do not send any of your messages/calls to them from your test setup.
+2. 
+
 
 ## All APIS
 - [API Docs](https://all-apis.com/)
