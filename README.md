@@ -1,13 +1,16 @@
 # Globaly link for Webdeveloper
 ## Frontend Developer
 - [Frontend Developer](https://roadmap.sh/frontend)
-- [Docs-Motivation](https://motion.dev/docs)
-- [React](https://react.dev/)
+- [Docs-Motivation](https://motion.dev/docs)  
 - [Next.js](https://nextjs.org/)
 
+## React 
+- [React Developer](https://roadmap.sh/react)
+- [React](https://react.dev/)
+- [JavaScript-Auffrischung für React-Anfänger – Wichtige JS-Konzepte, die Sie kennen sollten](https://www.freecodecamp.org/news/javascript-refresher-for-react-beginners/)
 ## Backend Developer
 - [Backend Developer](https://roadmap.sh/backend)
-- []()
+- [Express-Node.js](https://expressjs.com/)
 - []()
 
 ## JavaScript 
@@ -17,6 +20,7 @@
 ## TypeScript 
 - [TypeScript](https://roadmap.sh/typescript)
 - [De Novato a Ninja: Aprende TypeScript - curso intensivo - Video(Spanish)](https://www.youtube.com/watch?v=fUgxxhI_bvc)
+- [What is TypeScript](https://hygraph.com/blog/what-is-typescript)
 
 ## Node.js
 - [Node.js Developer](https://roadmap.sh/nodejs)
