@@ -1,7 +1,7 @@
 # Globaly link for Webdeveloper
 ## Frontend Developer
 - [Frontend Developer](https://roadmap.sh/frontend)
-- []()
+- [Docs-Motivation](https://motion.dev/docs)
 - []()
 
 ## Backend Developer
@@ -10,7 +10,7 @@
 - []()
 
 ## JavaScript 
-- [https://roadmap.sh/javascript](JavaScript Roadmap)
+- [JavaScript Roadmap](https://roadmap.sh/javascript)
 - []()
 
 ## TypeScript 
@@ -19,5 +19,10 @@
 
 ## Node.js
 - [Node.js Developer](https://roadmap.sh/nodejs)
+- [Node.js How to read enviroment Variables ...](https://nodejs.org/en/learn/command-line/how-to-read-environment-variables-from-nodejs)
 - []()
-- []()
+
+## Others
+- [Excalidraw - (Collaborative Whiteoarding)](https://excalidraw.com/#json=6UbsNkWPghtHmyEgxR0r3,RTkHIGJ2WoXDsM8vDbbEgw)
+- [Unsplash- (fotos)](https://unsplash.com/de)
+- [pixabay - (fotos)](https://pixabay.com/)
